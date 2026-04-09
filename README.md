@@ -60,18 +60,9 @@ npm install
 npm run dev
 ```
 
----
-
-🌐 Live Demo
-
-👉 Vercel link
-https://calendar-task.vercel.app
-
----
-
 🎥 Video Demonstration
 
-👉 Add your Loom / YouTube link here
+👉(https://drive.google.com/file/d/1PRswNIF1t3-oqGlJE8QvfEj8ABUvlfDH/view?usp=sharing)
 
 💡 Design Decisions
 
