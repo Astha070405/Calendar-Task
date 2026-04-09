@@ -3,7 +3,7 @@
 import { useCalendarStore } from "../store/useCalendarStore";
 import { isSameDay } from "date-fns";
 
-export default function ActivityHeatmap() {
+export default function ActivityHeatmap({ className }: { className?: string }) {
   const { startDate, endDate } = useCalendarStore();
 
   const days = Array.from({ length: 30 }, (_, i) => i + 1);
